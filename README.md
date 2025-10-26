@@ -22,6 +22,12 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h>📃Certifications</h2>
+- <b> Python
+- <b> AWS
+- <b> SQL
+- <b> Google sheets - Pivot and analysis
+- <b> Power of Bi
+- <b> Git/Github - Data analysis
 
 
 <h2> 🤳 Connect with me:</h2>
