@@ -2,7 +2,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Active Directory Home Lab(https://github.com/kynmskumalo-debug/Active-Directory-Home-Lab).
-- <b> Rental Yield Growth Index (Insights to Australia) 
+- <b> Rental Yield Growth Index (Insights to Australia) (https://github.com/kynmskumalo-debug/Real-estate-). 
 
 <h>📃Certifications</h2>
 - <b> Python
